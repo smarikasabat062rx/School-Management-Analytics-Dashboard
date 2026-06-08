@@ -1,0 +1,85 @@
+﻿Teacher_ID,Teacher_Name,Teacher_Role,Class_Assigned,Section_Assigned,Subject_Expertise,Monthly_Salary
+TCH2001,Neha Sharma,Main Teacher,1,A,English,44506
+TCH2002,Deepak Kumar,Assistant Teacher,1,A,Science,28033
+TCH2003,Neha Nair,Main Teacher,1,B,English,54617
+TCH2004,Priya Choudhury,Assistant Teacher,1,B,Civic Sense,22260
+TCH2005,Amit Verma,Main Teacher,1,C,Science,43811
+TCH2006,Amit Das,Assistant Teacher,1,C,Science,27865
+TCH2007,Rohan Kumar,Main Teacher,1,D,Civic Sense,49654
+TCH2008,Jyoti Patel,Assistant Teacher,1,D,Maths,28216
+TCH2009,Anjali Reddy,Main Teacher,1,E,Civic Sense,45574
+TCH2010,Jyoti Gupta,Assistant Teacher,1,E,Science,29841
+TCH2011,Rajesh Verma,Main Teacher,1,F,Maths,46224
+TCH2012,Neha Joshi,Assistant Teacher,1,F,Coding,26945
+TCH2013,Jyoti Patel,Main Teacher,2,A,Maths,51955
+TCH2014,Sneha Das,Assistant Teacher,2,A,Maths,29971
+TCH2015,Megha Verma,Main Teacher,2,B,Social Studies,44803
+TCH2016,Karan Choudhury,Assistant Teacher,2,B,Science,27771
+TCH2017,Priya Sharma,Main Teacher,2,C,English,43733
+TCH2018,Sunita Verma,Assistant Teacher,2,C,Science,29098
+TCH2019,Neha Mehta,Main Teacher,2,D,Coding,47428
+TCH2020,Karan Gupta,Assistant Teacher,2,D,Coding,24910
+TCH2021,Vikram Nair,Main Teacher,2,E,Coding,51498
+TCH2022,Priya Choudhury,Assistant Teacher,2,E,English,23401
+TCH2023,Deepak Gupta,Main Teacher,2,F,Civic Sense,46216
+TCH2024,Jyoti Nair,Assistant Teacher,2,F,English,26562
+TCH2025,Deepak Nair,Main Teacher,3,A,Coding,53809
+TCH2026,Rahul Kumar,Assistant Teacher,3,A,Maths,28594
+TCH2027,Rajesh Mehta,Main Teacher,3,B,Coding,41084
+TCH2028,Vikram Choudhury,Assistant Teacher,3,B,English,24577
+TCH2029,Vikram Nair,Main Teacher,3,C,Civic Sense,46482
+TCH2030,Sneha Gupta,Assistant Teacher,3,C,Coding,23143
+TCH2031,Deepak Reddy,Main Teacher,3,D,Social Studies,48830
+TCH2032,Jyoti Reddy,Assistant Teacher,3,D,Social Studies,25509
+TCH2033,Megha Joshi,Main Teacher,3,E,Science,42266
+TCH2034,Alok Verma,Assistant Teacher,3,E,Maths,29054
+TCH2035,Neha Gupta,Main Teacher,3,F,English,42621
+TCH2036,Rohan Choudhury,Assistant Teacher,3,F,Maths,25152
+TCH2037,Megha Choudhury,Main Teacher,4,A,Civic Sense,48669
+TCH2038,Jyoti Das,Assistant Teacher,4,A,Maths,27572
+TCH2039,Neha Nair,Main Teacher,4,B,Social Studies,52302
+TCH2040,Jyoti Patel,Assistant Teacher,4,B,English,24786
+TCH2041,Neha Singh,Main Teacher,4,C,Civic Sense,42591
+TCH2042,Sneha Sharma,Assistant Teacher,4,C,English,29174
+TCH2043,Jyoti Das,Main Teacher,4,D,Science,48317
+TCH2044,Neha Nair,Assistant Teacher,4,D,Coding,28894
+TCH2045,Vikram Gupta,Main Teacher,4,E,Coding,52492
+TCH2046,Anjali Das,Assistant Teacher,4,E,Social Studies,29524
+TCH2047,Amit Choudhury,Main Teacher,4,F,Coding,48005
+TCH2048,Amit Verma,Assistant Teacher,4,F,Coding,29198
+TCH2049,Sunita Kumar,Main Teacher,5,A,Maths,43946
+TCH2050,Priya Verma,Assistant Teacher,5,A,English,25981
+TCH2051,Priya Patel,Main Teacher,5,B,Social Studies,52547
+TCH2052,Sanjay Gupta,Assistant Teacher,5,B,English,25893
+TCH2053,Anjali Singh,Main Teacher,5,C,Social Studies,54293
+TCH2054,Rohan Kumar,Assistant Teacher,5,C,Social Studies,28187
+TCH2055,Vikram Reddy,Main Teacher,5,D,Coding,46537
+TCH2056,Karan Mishra,Assistant Teacher,5,D,Social Studies,25698
+TCH2057,Neha Kumar,Main Teacher,5,E,Science,41049
+TCH2058,Rajesh Sharma,Assistant Teacher,5,E,Social Studies,26537
+TCH2059,Deepak Choudhury,Main Teacher,5,F,Science,40117
+TCH2060,Priya Reddy,Assistant Teacher,5,F,English,22482
+TCH2061,Deepak Verma,Main Teacher,6,A,Maths,54084
+TCH2062,Rajesh Verma,Assistant Teacher,6,A,Social Studies,23949
+TCH2063,Jyoti Nair,Main Teacher,6,B,Civic Sense,43510
+TCH2064,Sanjay Reddy,Assistant Teacher,6,B,Social Studies,26720
+TCH2065,Alok Kumar,Main Teacher,6,C,Civic Sense,53230
+TCH2066,Rohan Kumar,Assistant Teacher,6,C,Maths,22794
+TCH2067,Rohan Joshi,Main Teacher,6,D,Civic Sense,46735
+TCH2068,Sneha Reddy,Assistant Teacher,6,D,Maths,27516
+TCH2069,Neha Sharma,Main Teacher,6,E,Civic Sense,51931
+TCH2070,Rajesh Patel,Assistant Teacher,6,E,Maths,24036
+TCH2071,Vikram Kumar,Main Teacher,6,F,Social Studies,47350
+TCH2072,Sanjay Mehta,Assistant Teacher,6,F,Science,24281
+TCH2073,Sneha Kumar,Main Teacher,7,A,Maths,47260
+TCH2074,Neha Sharma,Assistant Teacher,7,A,English,26428
+TCH2075,Amit Verma,Main Teacher,7,B,Science,42724
+TCH2076,Rohan Mishra,Assistant Teacher,7,B,Civic Sense,23751
+TCH2077,Megha Sharma,Main Teacher,7,C,Science,46209
+TCH2078,Amit Mehta,Assistant Teacher,7,C,Coding,29590
+TCH2079,Sneha Singh,Main Teacher,7,D,Civic Sense,51412
+TCH2080,Alok Gupta,Assistant Teacher,7,D,Science,24430
+TCH2081,Vikram Sharma,Main Teacher,7,E,Social Studies,52054
+TCH2082,Rahul Reddy,Assistant Teacher,7,E,Coding,22468
+TCH2083,Rahul Choudhury,Main Teacher,7,F,Civic Sense,48238
+TCH2084,Anjali Sharma,Assistant Teacher,7,F,Social Studies,22656
