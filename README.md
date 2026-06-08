@@ -3,7 +3,7 @@
 An advanced, data-driven Power BI dashboard designed to optimize school operations, track student enrollment skews, monitor attendance patterns, and manage faculty workload distribution.
 
 ## 📊 Live Dashboard Preview
-
+https://github.com/smarikasabat062rx/School-Management-Analytics-Dashboard/blob/main/dashboard_screenshot.png.png
 
 ## 🚀 Key Features & Architectural Enhancements
 - **Dynamic Executive KPIs:** Real-time tracking of Total Enrollment (1,680 Students), Total Monthly Revenue, and Total Staff Salaries.
